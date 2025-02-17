@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with MERN, Typescript, Nextjs<br>🌱 I’m currently learning Blockchain, DevOps<br>
+🔭 I’m currently working with MERN, Typescript, Nextjs<br>🌱 I’m currently learning Rust, DevOps<br>
 🎨 My projects are also listed on my [Portfolio Website](https://akashpandeyweb.netlify.app)
 
 
