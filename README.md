@@ -1,6 +1,6 @@
 # About Me:
 🔭 I’m currently working with MERN, Typescript, Nextjs<br>🌱 I’m currently learning Rust, DevOps<br>
-🎨 My projects are also listed on my [Portfolio Website](https://akashpandeyweb.netlify.app)
+🎨 My projects are also listed on my [Portfolio Website](https://akassh.tech)
 
 
 ## 🌐 Socials:
